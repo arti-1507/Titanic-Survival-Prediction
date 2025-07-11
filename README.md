@@ -1,5 +1,6 @@
 # Titanic-Survival-Prediction
 # 🚢 Titanic Survival Prediction using ML
+![Banner](banner.png)
 
 This project uses machine learning (Logistic Regression and Random Forest) to predict passenger survival in the Titanic dataset.
 
